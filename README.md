@@ -27,4 +27,4 @@ Parch: Number of parents or children aboard the titanic
 Ticket: Passenger ticket number
 Fare: Passenger fare
 Cabin: Cabin number
-Embarked: Point of embarkation where C = Cherbourg, Q = Queenstown, S = Southampton
+Embarked: Point of embarkation where C = Cherbourg, Q = Queenstown, S = Southampton 
