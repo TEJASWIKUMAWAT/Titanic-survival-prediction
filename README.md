@@ -1,2 +1,2 @@
 # Titanic-survival-prediction
-This roject is aboutTitanic survival prediction through machine learning
+This poject is about Titanic survival prediction through machine learning
